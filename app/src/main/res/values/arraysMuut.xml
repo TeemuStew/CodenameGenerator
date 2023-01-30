@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+
+        name="ArraysY">
+        <item>Yeasty</item>
+        <item>Yucky</item>
+        <item>Young</item>
+        <item>Youthful</item>
+    </string-array>
+
+    <string-array name="ArraysX">
+        <item>Xenial</item>
+        <item>Xenodochial</item>
+        <item>Xenophobic</item>
+    </string-array>
+
+    <string-array name="ArraysZ">
+        <item>Zany</item>
+        <item>Zealous</item>
+        <item>Zestful</item>
+        <item>Zesty</item>
+        <item>Zippy</item>
+    </string-array>
+</resources>
